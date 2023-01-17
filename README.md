@@ -48,3 +48,9 @@ Question 6: Provide a link to your code on GitHub.
 
 https://github.com/kezzayuno/cmput404-lab2
 https://github.com/kezzayuno/cmput404-lab2.git
+
+# Multithreading 
+
+To handle multiple programs / multiple connections at a time. 
+
+Able to connect to multiple clients at the same time. 
